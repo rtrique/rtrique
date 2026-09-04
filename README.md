@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/rt-logo.jpg" width="180" alt="Símbolo tecnológico RT" />
+  <img src="https://github.com/rtrique.png" width="180" alt="Símbolo tecnológico RT" />
 
   <h1>RT</h1>
   <h3>Desenvolvimento • Automação • Tecnologia</h3>
