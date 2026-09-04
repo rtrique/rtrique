@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#a855f7"/></linearGradient></defs>
+  <rect width="1200" height="130" rx="24" fill="#070b19"/><path d="M70 24H1130M70 106H1130" stroke="url(#g)" stroke-width="2" opacity=".55"/><circle cx="70" cy="24" r="5" fill="#22d3ee"/><circle cx="1130" cy="106" r="5" fill="#a855f7"/>
+  <text x="600" y="66" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="800" font-size="27" fill="#f8fafc" letter-spacing="3">IDEIAS → CÓDIGO → EVOLUÇÃO</text><text x="600" y="91" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#94a3b8">Obrigado por visitar • Volte para acompanhar os próximos projetos</text>
+</svg>
+
