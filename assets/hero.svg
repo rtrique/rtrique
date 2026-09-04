@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".52" stop-color="#0a1538"/><stop offset="1" stop-color="#160b32"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#60a5fa" stroke-opacity=".08"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/><rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="110" cy="70" r="150" fill="#2563eb" opacity=".11"/><circle cx="1090" cy="310" r="180" fill="#7c3aed" opacity=".13"/>
+  <path d="M80 286H1120" stroke="url(#accent)" stroke-width="2" opacity=".55"/>
+  <g transform="translate(125 73)" filter="url(#glow)">
+    <rect width="214" height="214" rx="48" fill="#070b19" stroke="url(#accent)" stroke-width="4"/>
+    <path d="M43 55h73c40 0 62 19 62 51 0 22-11 37-32 45l38 51h-45l-32-44H82v44H43V55zm39 32v40h32c16 0 24-7 24-20 0-14-8-20-24-20H82z" fill="url(#accent)"/>
+    <path d="M113 55h84v34h-23v113h-39V89h-22z" fill="#f8fafc" opacity=".96"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif"><text x="390" y="126" font-size="72" font-weight="800" fill="#f8fafc" letter-spacing="3">RT</text><text x="394" y="174" font-size="25" font-weight="600" fill="url(#accent)" letter-spacing="4">BUILD • AUTOMATE • EVOLVE</text><text x="394" y="222" font-size="20" fill="#94a3b8">Desenvolvimento web, back-end, bots e automação.</text><rect x="394" y="249" width="465" height="42" rx="21" fill="#fff" opacity=".06" stroke="#60a5fa" stroke-opacity=".3"/><circle cx="419" cy="270" r="5" fill="#22d3ee"/><text x="437" y="277" font-size="17" fill="#cbd5e1">github.com/rtrique</text></g>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="27" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="3"/>
+</svg>
+
