@@ -48,8 +48,6 @@ Sou o **RT**, desenvolvedor brasileiro em constante evolução. Gosto de aprende
 
 <div align="center">
 
-<a href="https://github.com/rtrique/thz"><img width="48%" src="./assets/card-thz.svg" alt="THz Performance" /></a>
-<a href="https://github.com/rtrique/Pestinha-Menu"><img width="48%" src="./assets/card-pestinha.svg" alt="Pestinha Menu" /></a>
 <a href="https://github.com/rtrique/script-alura"><img width="48%" src="./assets/card-alura.svg" alt="Script Alura" /></a>
 
 </div>
