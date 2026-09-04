@@ -48,40 +48,23 @@ Sou o **RT**, desenvolvedor brasileiro em constante evolução. Gosto de aprende
 
 <div align="center">
 
-<a href="https://github.com/rtrique/thz"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtrique&repo=thz&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=a855f7&text_color=cbd5e1" alt="THz Performance" /></a>
-<a href="https://github.com/rtrique/Pestinha-Menu"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtrique&repo=Pestinha-Menu&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=a855f7&text_color=cbd5e1" alt="Pestinha Menu" /></a>
-<a href="https://github.com/rtrique/script-alura"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtrique&repo=script-alura&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=a855f7&text_color=cbd5e1" alt="Script Alura" /></a>
-<a href="https://github.com/rtrique/rtrique"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rtrique&repo=rtrique&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=a855f7&text_color=cbd5e1" alt="Perfil RT" /></a>
+<a href="https://github.com/rtrique/thz"><img width="48%" src="./assets/card-thz.svg" alt="THz Performance" /></a>
+<a href="https://github.com/rtrique/Pestinha-Menu"><img width="48%" src="./assets/card-pestinha.svg" alt="Pestinha Menu" /></a>
+<a href="https://github.com/rtrique/script-alura"><img width="48%" src="./assets/card-alura.svg" alt="Script Alura" /></a>
 
 </div>
 
-## 📊 GitHub em números
+## 📊 Evolução no GitHub
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rtrique&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=60a5fa&icon_color=a855f7&text_color=cbd5e1&ring_color=22d3ee" alt="Estatísticas do GitHub" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtrique&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" alt="Linguagens mais usadas" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=rtrique&theme=transparent&hide_border=true&stroke=334155&ring=22d3ee&fire=a855f7&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" alt="Sequência de contribuições" />
 
 </div>
 
-## 📈 Atividade
+## 🧭 Roadmap
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rtrique&bg_color=00000000&color=60a5fa&line=8b5cf6&point=22d3ee&area=true&area_color=2563eb&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20de%20RT" alt="Gráfico de contribuições" />
-
-</div>
-
-## 🧭 Próximos passos
-
-```text
-[■■■■■■■■□□] Desenvolvimento web
-[■■■■■■■□□□] Back-end e APIs
-[■■■■■■■■□□] Bots e automação
-[■■■■■■□□□□] Testes e arquitetura
-```
+<img width="100%" src="./assets/roadmap.svg" alt="Painel de evolução de RT" />
 
 > Este perfil está em evolução contínua. Cada projeto novo representa uma habilidade praticada, um problema resolvido e mais um passo na jornada.
 
